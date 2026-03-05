@@ -74,11 +74,7 @@ Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=ArthurMoreira79&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&count_private=true)
 
 ## Contato
 - LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
