@@ -1,17 +1,16 @@
-# Ol�, eu sou [Seu Nome]
+# Olá, eu sou [Seu Nome]
 
-Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas a resultado.
+Desenvolvedor focado em construir soluções escaláveis, limpas e orientadas a resultado.
 
 ## Sobre
-- Experi�ncia em desenvolvimento de aplica��es web e APIs
-- Boas pr�ticas: Clean Code, versionamento com Git e testes automatizados
-- Foco em performance, legibilidade e manuten��o de longo prazo
+- Experiência em desenvolvimento de aplicações web e APIs
+- Boas práticas: Clean Code, versionamento com Git e testes automatizados
+- Foco em performance, legibilidade e manutenção de longo prazo
 
 ## Stacks
 ### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,8 +23,7 @@ Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps e Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,6 +43,7 @@ Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas&cache_seconds=86400"
   />
 </p>
+
 ## Contato
 - LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
 - Email: seuemail@exemplo.com
