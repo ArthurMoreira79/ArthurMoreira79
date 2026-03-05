@@ -72,8 +72,13 @@ Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas
 ## Stats
 > Troque `SEU_USUARIO` pelo seu username do GitHub.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&layout=compact&theme=dark)
+## 📊 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&layout=compact&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=ArthurMoreira79&theme=radical)
 
 ## Contato
 - LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
