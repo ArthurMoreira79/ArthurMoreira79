@@ -69,12 +69,19 @@ Desenvolvedor focado em construir solu��es escal�veis, limpas e orientadas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Stats
-> Troque `SEU_USUARIO` pelo seu username do GitHub.
-
-## 📊 Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&count_private=true)
+## GitHub Stats
+<p>
+  <img
+    alt="GitHub Stats"
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=tokyonight&cache_seconds=86400"
+  />
+  <img
+    alt="Top Langs"
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurMoreira79&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas&cache_seconds=86400"
+  />
+</p>
 
 ## Contato
 - LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
