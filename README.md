@@ -1,14 +1,12 @@
-<h2 align="left">Olá👋! Meu nome é Arthur Moreira</h2>
+# 👨🏼‍💻 Arthur Moreira
 
-###
+**`Desenvolvedor FullStack`**
 
-<p align="left">Sou estudante de Sistemas de Informação no IFMA e meu foco é o desenvolvimento Full-Stack. Tenho sólida base acadêmica e pessoal em C, Java, Javascript, HTML5, CSS e MySQL. Meu atual objetivo é ingressar no meu primeiro estágio em TI/Desenvolvimento Full-Stack, contribuindo com soluções seguras e eficientes, enquanto continuo evoluindo profissionalmente. Estou aberto a novas oportunidades, networking e colaborações em projetos!</p>
+Sou estudante de Sistemas de Informação no IFMA e meu foco é o desenvolvimento Full-Stack. Tenho sólida base acadêmica e pessoal em C, Java, Javascript, HTML5, CSS e MySQL. Meu atual objetivo é ingressar no meu primeiro estágio em TI/Desenvolvimento Full-Stack, contribuindo com soluções seguras e eficientes, enquanto continuo evoluindo profissionalmente. Estou aberto a novas oportunidades, networking e colaborações em projetos!
 
-###
+---
 
-<h2 align="left">Linguagens e Tecnologia</h2>
-
-###
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -24,33 +22,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">Estatísticas</h2>
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurMoreira79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-###
+</p>
+<br clear="left"/>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/ArthurMoreira79/ArthurMoreira79/output/snake.svg" alt="Snake animation" />
+### 📞 Contato
 
-###
-
-<h2 align="left">Contato</h2>
-
-###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/arthurmll_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:arthurmlucena@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-moreira-2274943b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-###
+
+
