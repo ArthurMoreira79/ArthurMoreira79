@@ -24,29 +24,6 @@ Sou estudante de Sistemas de Informação no IFMA e meu foco é o desenvolviment
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurMoreira79&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira79&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-<br clear="left"/>
-
----
-
 ### 📞 Contato
 
 
